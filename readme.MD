@@ -29,3 +29,4 @@ se quiser obter o salário e o cargo do funcionário utilize o request com os en
 !["Imagem para atualizar os dados do funcionário"](updateEmployee.png)
 !["Imagem para atualizar os dados de cargo"](updateJOB.png)
 !["Imagem para atualizar os dados de salário"](updateSalary.png)
+!["Imagem para atualizar deletar o funcionário"](delete.png)
