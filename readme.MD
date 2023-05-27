@@ -20,13 +20,21 @@ se quiser obter o salário e o cargo do funcionário utilize o request com os en
 
 
 ## Imagens das Requests.
-### Resgitro de funcionário
+### Resgistro de funcionário
 !["Imagem para registrar funcionário"](create_employee.png)
+### Resgistro de salário
 !["Imagem para registrar salário"](create_salary.png)
+### Resgistro de cargo
 !["Imagem para registrar cargo"](create_job.png)
+### Obtendo todos os funcionários
 !["Imagem para obter todos os funcionários"](getAll.png)
+### Obtendo um único funcionário
 !["Imagem para obter um único funcionário"](getID.png)
+### Atualizar os dados do funcionário
 !["Imagem para atualizar os dados do funcionário"](updateEmployee.png)
+### Atualizar os dados de cargo
 !["Imagem para atualizar os dados de cargo"](updateJOB.png)
+### Atualizar os dados de salário
 !["Imagem para atualizar os dados de salário"](updateSalary.png)
+### deletar o funcionário 
 !["Imagem para atualizar deletar o funcionário"](delete.png)
