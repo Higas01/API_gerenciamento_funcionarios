@@ -12,11 +12,11 @@ existem 3 tabelas e todas utilizam chave estrangeira para se comunicarem.
 
 
 ## Imagens das Requests.
-### Resgistro de funcionário
+### Registro de funcionário
 !["Imagem para registrar funcionário"](create_employee.png)
-### Resgistro de salário
+### Registro de salário
 !["Imagem para registrar salário"](create_salary.png)
-### Resgistro de cargo
+### Registro de cargo
 !["Imagem para registrar cargo"](create_job.png)
 ### Obtendo todos os funcionários
 !["Imagem para obter todos os funcionários"](getAll.png)
